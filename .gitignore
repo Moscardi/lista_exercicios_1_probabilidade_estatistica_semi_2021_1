@@ -1,0 +1,10 @@
+*.aux
+*.idx
+*.log
+*.lot
+*.lof
+*.bcf
+*.toc
+*.gz
+*.xml
+*.quadros
