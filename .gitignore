@@ -9,3 +9,7 @@
 *.xml
 *.quadros
 *.pdf
+
+*.blg
+
+*.bbl
